@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?debouncced=anuraghazra&show_icons=true&theme=react
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?debouncced=anuraghazra&show_icons=true&theme=react)
 <!--
 **Debouncced/Debouncced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
