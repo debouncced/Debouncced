@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating animations on css<br>🌱 I’m currently learning Next.js<br>💬 Let's talk about TypeScript<br>⚡ Fun fact: you searched this page
+🔭 I’m React Frontend developer<br>🌱 Now I'm learning Next.js<br>⚡ Fun fact: you searched this page
 
 
 ## 🌐 Socials:
